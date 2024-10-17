@@ -103,7 +103,7 @@ public class PlayerController : MonoBehaviour
 	{
 		if (collision.tag == "Spike")
         {
-            var health = healthBarController.Damage(0.002f);
+            var health = healthBarController.Damage(0.005f);
             if (health <= 0)
             {
 				transform.position = respawnPoint;

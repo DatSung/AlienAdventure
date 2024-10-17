@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\assets\\scripts\\player\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\assets\\scripts\\player\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\assets\\scripts\\player\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\assets\\scripts\\score\\scoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score\\scoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|c:\\fpt_university_sources\\after_ojt\\term_7\\pru212\\alienadventure\\assets\\scripts\\startmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\assets\\scripts\\startmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{915203D0-60BD-E8F8-AD04-E48CC57C5DE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,19 +73,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA/wD4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:26:42.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StartMenuController.cs",
               "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\StartMenu\\StartMenuController.cs",
@@ -99,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HealthController.cs",
               "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\HealthController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HealthController.cs",
@@ -112,26 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AudioManagement.cs",
-              "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Audio\\AudioManagement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManagement.cs",
-              "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Audio\\AudioManagement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:45:49.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HealthBarController.cs",
               "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\HealthBarController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HealthBarController.cs",
               "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\HealthBarController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\HealthBarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T03:49:03.727Z",
               "EditorCaption": ""
@@ -144,7 +118,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
               "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Camera\\CameraController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:27:31.309Z",
               "EditorCaption": ""
@@ -161,6 +135,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T07:14:57.963Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:26:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManagement.cs",
+              "DocumentMoniker": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Audio\\AudioManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManagement.cs",
+              "ToolTip": "C:\\FPT_University_Sources\\After_OJT\\Term_7\\PRU212\\AlienAdventure\\Assets\\Scripts\\Audio\\AudioManagement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:45:49.832Z"
             },
             {
               "$type": "Document",
